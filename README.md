@@ -24,7 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ☆ Layout
 
-Você pode visualizar o layout do projeto e como ele funciona através do video abaixo.<br>
+Você pode visualizar o layout do projeto e como ele funciona através da foto abaixo.<br>
+
+![image](https://user-images.githubusercontent.com/100307080/229269099-16e39bbd-d10f-4040-85bf-7f459247ecc2.png)
 
 ## ☆ Licença
 
